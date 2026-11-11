@@ -1,2 +1,2 @@
 # Trends-Talent
-repositary for Trends&amp;Talent exercice
+repositary for Trends&amp;Talent github-account making exercice
