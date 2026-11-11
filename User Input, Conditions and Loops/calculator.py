@@ -1,3 +1,4 @@
+# DIT IS DE VERANDERING VOOR DE GITHUB_OPDRACHT!!!
 try:
 
     getal1 =int(input("geef een getal 1 in: "))
@@ -20,3 +21,5 @@ except ValueError:
     print("geef een getal in")
 except ZeroDivisionError:
     print("deelbaar door nul is niet toegestaan:")
+
+# DIT IS DE VERANDERING VOOR DE GITHUB_OPDRACHT!!!
